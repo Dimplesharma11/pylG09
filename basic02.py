@@ -111,10 +111,12 @@
 # print()
 #multiplication table
 # 
-l1=[22,99,67,90,77,55]
-l1.sort()
-print(l1)
-li.insert(2,[8])
+# l1=[22,99,67,90,77,55]
+# l1.sort()
+# print(l1)
+# l1.insert(2,[8])
+ 
+
 
 
 
